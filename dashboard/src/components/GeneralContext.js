@@ -34,4 +34,5 @@ export const GeneralContextProvider = (props) => {
   );
 };
 
+export { GeneralContext };
 export default GeneralContext;
